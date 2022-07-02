@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Mohamed Errahali from Morocco, and I'm a software engineer I really enjoy problem solving and learn languages and frameworks like spring boot, React, Angular.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamederrahali34)](https://github.com/anuraghazra/github-readme-stats)
+
